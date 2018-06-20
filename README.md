@@ -1,5 +1,5 @@
 # LN-testnet-list
-List of ressources for Bitcoin Lightning Network on tesnet
+List of ressources for Bitcoin Lightning Network on testnet
 
 ## Bitcoin testnet:
 
@@ -40,3 +40,4 @@ List of ressources for Bitcoin Lightning Network on tesnet
 - Curated lists:
   - https://github.com/bcongdon/awesome-lightning-network
   - https://lnroute.com/
+  - https://github.com/tmlee/awesome-lightning-network
