@@ -11,7 +11,8 @@ List of ressources for Bitcoin Lightning Network on testnet
 - Bitcoin testnet explorer
   - https://testnet.blockchain.info
   - https://live.blockcypher.com/btc-testnet
-
+  - https://testnet.smartbit.com.au/
+  
 ## Bitcoin Lightning Network testnet:
 
 - LN testnet explorers:
