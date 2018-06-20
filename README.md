@@ -4,9 +4,9 @@ List of ressources for Bitcoin Lightning Network on tesnet
 ## Bitcoin testnet:
 
 - Testnet Bitcoin Faucet (not LN):
-https://testnet.manu.backend.hamburg/faucet
-https://testnet.coinfaucet.eu/en/
-http://bitcoinfaucet.uo1.net/
+  - https://testnet.manu.backend.hamburg/faucet
+  - https://testnet.coinfaucet.eu/en/
+  - http://bitcoinfaucet.uo1.net/
 
 - Bitcoin testnet explorer
 https://testnet.blockchain.info
