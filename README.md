@@ -33,6 +33,7 @@ List of ressources for Bitcoin Lightning Network on testnet
   - https://faucet.lightning.community/
 
 - Testnet stores:
+  - https://testnet.millionbitcoinhomepage.net/
   - https://testnet.satoshis.place/
   - http://thunderdice.ws/
   - https://starblocks.acinq.co/
